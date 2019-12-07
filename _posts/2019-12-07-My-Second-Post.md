@@ -40,4 +40,4 @@ tag:
 
 # 加油 ！
 
-![](../img/zouhaohao.jpg)
+![](https://wx2.sinaimg.cn/mw690/005GjvH0gy1g7hy6ojzduj33402c0qv6.jpg)
