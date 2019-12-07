@@ -10,7 +10,7 @@ tag:
     - 生活
 ---
 
-##前言
+## 前言
 
 真的猛士敢于直面惨淡的人生，敢于正视淋漓的鲜血
 
@@ -18,13 +18,13 @@ tag:
 
 >关键词：共产党万岁！
 
-###革命
+### 革命
 
 沉默沉默不在沉默中爆发 就在沉默中灭亡
 
 中国人民站起来啦！！！
 
-###建立新中国
+### 建立新中国
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ9JKq4Gae-DvW2OAqwQAgRlZRJSREsw85PZ8cFFxNGKFT0tCS6Q&s)
 
