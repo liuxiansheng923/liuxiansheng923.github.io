@@ -1,3 +1,4 @@
+---
 layout:     post
 title:      My First Post
 subtitle:   Hello,Welcome to My First Post!
@@ -7,3 +8,4 @@ header-img: img/post-bg-2015.jpg
 catalog:    true
 tag:
     - 生活
+---
